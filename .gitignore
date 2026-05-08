@@ -1,0 +1,25 @@
+# Ignore build artifacts and temporary files
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.log
+*.idb
+*.ipch
+*.suo
+*.user
+*.tlog
+*.lastbuildstate
+*.pch
+*.o
+*.out
+*.lib
+*.dll
+*.exp
+
+# VS Code workspace settings
+.vscode/
+
+# Other generated files
+build/
+out/
